@@ -22,7 +22,7 @@ In this turn-based card game, two or more players battle each other using cards 
 ## Build & Run
 
 ```bash
-git clone https://github.com/Jstr1ng/bang-cli.git
+git clone https://github.com/Jstr1ng/Bang_Card_Game.git
 cd bang-cli
 make
 ./bang
